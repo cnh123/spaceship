@@ -1,0 +1,15 @@
+C:\Users\cassi\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.exe
+C:\Users\cassi\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.deps.json
+C:\Users\cassi\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+C:\Users\cassi\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.dll
+C:\Users\cassi\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.pdb
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.dll
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\refint\Spaceship.dll
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.pdb
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache
+C:\Users\cassi\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\ref\Spaceship.dll
